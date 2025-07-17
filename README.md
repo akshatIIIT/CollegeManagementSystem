@@ -3,6 +3,8 @@
 This project is an enhancement of a previously developed **College ERP System**, expanding its functionality and robustness using advanced Java concepts like **Generic Programming**, **Object Class**, and **Exception Handling**.
 
 ---
+## UML Link
+https://lucid.app/lucidchart/9e3acbf7-8c22-4ef0-bfa8-e34db00a1223/edit?invitationId=inv_320684c8-3e63-4a67-9479-1433714ae8a2&page=0_0#
 
 ## 🚀 Features Added in Assignment 2
 
